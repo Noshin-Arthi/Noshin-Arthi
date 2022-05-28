@@ -15,4 +15,4 @@ This is `Noshin Tabassum Arthi` - A fresh Graduate from Brac University. I am a 
 
 >Here is my short description only  
 
-You can contact me through :e-mail: noshinarthi@gmail.comm 
+You can contact me through :e-mail: noshinarthi@gmail.com
