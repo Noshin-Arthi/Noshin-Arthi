@@ -1,6 +1,6 @@
 ### 👋 Hello there! 
 
- I am Noshin Tabassum Arthi, a fresh Graduate from Brac University. I am a fast learner, team player and love to work in dynamic work places.  
+This is `(Noshin Tabassum Arthi)`, a fresh Graduate from Brac University. I am a fast learner, team player and love to work in dynamic work places. Always open to learn new things and 
 
 
 - 🤖 Interested in AI, ML, DL, Big Data, Robotics etc. 
@@ -16,10 +16,3 @@
 >Here is my short description only  
 
 You can contact me through :e-mail: noshinarthi@gmail.comm 
-
-
-- 📫 How to reach me noshinarthi@gmail.com
-<!---
-Noshin-Arthi/Noshin-Arthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
