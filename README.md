@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Noshin Tabassum Arthi
-- Interested in AI, ML, Big Data, Deepfakes, Robotics etc. 
-- Currently learning Neural Networks, Machine Learning and frameworks of Java and Python.
-- Looking forward to collaborate on any project related to above topics.
+- 🤖 Interested in AI, ML, DL, Big Data, Robotics etc. 
+- 💻 Currently working with Machine Learning, softwares/ Web application/ Full stack development.
+- 🤝 Looking forward to collaborate on any project related to above topics.
 
+![](https://img.shields.io/badge/OS-windows/linux-green)
 ![](https://img.shields.io/badge/web-js-yellow)
-![](https://img.shields.io/badge/web-php-blue)
-![](https://img.shields.io/badge/desktop-java-orange)
-![](https://img.shields.io/badge/algortihms-c/c++-lightgrey)
+![](https://img.shields.io/badge/web-java/spring boot/hybernate-red)
+![](https://img.shields.io/badge/ML-python-blue)
+![](https://img.shields.io/badge/algortihms-java/python-purple)
 
 >Here is my short description only  
 
