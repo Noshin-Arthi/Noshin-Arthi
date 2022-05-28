@@ -1,6 +1,6 @@
 ### 👋 Hello there! 
 
-This is `(Noshin Tabassum Arthi)`, a fresh Graduate from Brac University. I am a fast learner, team player and love to work in dynamic work places. Always open to learn new things and 
+This is `Noshin Tabassum Arthi` - A fresh Graduate from Brac University. I am a fast learner, team player and love to work in dynamic work places. Always open to learn new things and 
 
 
 - 🤖 Interested in AI, ML, DL, Big Data, Robotics etc. 
