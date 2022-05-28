@@ -7,11 +7,11 @@ This is `Noshin Tabassum Arthi` - A fresh Graduate from Brac University. I am a 
 - 💻 Currently working with Machine Learning, softwares/ Web application/ Full stack development.
 - 🤝 Looking forward to collaborate on any project related to above topics.
 
-![](https://img.shields.io/badge/OS-windows/linux-green)
-![](https://img.shields.io/badge/web-js-yellow)
 ![](https://img.shields.io/badge/web-java/springboot/hybernate-red)
-![](https://img.shields.io/badge/ML-python-blue)
+![](https://img.shields.io/badge/os-windows/linux-green)
 ![](https://img.shields.io/badge/algortihms-java-purple)
+![](https://img.shields.io/badge/ML-python-blue)
+![](https://img.shields.io/badge/web-js-yellow)
 
 >Here is my short description only  
 
