@@ -4,7 +4,7 @@ This is `Noshin Tabassum Arthi` - A fresh Graduate from Brac University. I am a 
 
 
 - 🤖 Interested in AI, ML, DL, Big Data, Robotics. 
-- 💻 Currently working with Machine Learning, Software development/ Web application/ Full stack development.
+- 💻 Currently working with Software development/ Quality Assurance.
 - 🤝 Looking forward to collaborate on any project related to above topics.
 
 ![](https://img.shields.io/badge/web-java/springboot/hibernate-red)
